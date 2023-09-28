@@ -1,4 +1,4 @@
-# Revenue-Sales-BI-Dashboard-Project.harpal
+# Excel Dashboard Revenue and Sales Report Dashboard:
 
 In this porject I have
 1) performed Data Cleaning and manipulation
